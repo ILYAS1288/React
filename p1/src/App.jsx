@@ -22,8 +22,6 @@ function App() {
  <br /> <br />
  <Footer/>
   </>
-
-      
       // React.createElement({type:"h1" ,  props:{ children:Hello in react first class} })
   )
 }
