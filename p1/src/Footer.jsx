@@ -1,6 +1,6 @@
 function Footer(){
     return <div className="footer">
-       Thank for view
+       Thank for view 
     </div>
  }
  
