@@ -1,3 +1,6 @@
 .img{
     width: 40rem;
+    border: 0.2rem solid black;
+    border-radius: 0.8rem;
+
 }
