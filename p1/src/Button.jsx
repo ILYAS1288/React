@@ -1,5 +1,5 @@
 function Button(){
-    return <button className="btn">CLick</button>
+    return <button className="btn">See more</button>
 }
 
 export default Button
