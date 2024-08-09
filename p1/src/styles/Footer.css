@@ -4,16 +4,18 @@
 
 
 .footer {
-    background-color: #2a295c;
+    background-color: #1a1881;
     color: white;
     padding: 20px;
     text-align: center;
+    
   }
   
   .footer-content {
     display: flex;
     flex-direction: column;
     align-items: center;
+   
   }
   
   .footer-links {
