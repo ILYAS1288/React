@@ -24,9 +24,6 @@ function App() {
   };
 
   return (
-
-
-
     <div style={appStyle}>
 
       <Header />
