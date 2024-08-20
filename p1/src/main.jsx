@@ -2,7 +2,6 @@ import React from 'react'
 import ReactDOM from 'react-dom/client'
 import App from './App.jsx'
 // import './styles/Button.css'
-
 // import './styles/Img.css'
 
 ReactDOM.createRoot(document.getElementById('root')).render(
