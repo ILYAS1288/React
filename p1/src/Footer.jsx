@@ -14,7 +14,7 @@ function Footer(){
           <a href="https://instagram.com" target="_blank" rel="noopener noreferrer">Instagram</a>
         </div>
         <div className="footer-copyright">
-          <p>&copy; {new Date().getFullYear()} MyApp. All rights reserved.</p>
+          <p>&copy; {new Date().getFullYear()}  MyApp. All rights reserved.</p>
         </div>
       </div>
     </footer>
