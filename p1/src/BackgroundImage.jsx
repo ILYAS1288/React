@@ -14,12 +14,10 @@ const BackgroundImage = () => {
     justifyContent: 'center',
     textAlign: 'center'
   };
-
   return (
     <div style={backgroundImageStyle}>
       <h1>Your Content Here</h1>
     </div>
   );
 }
-
 export default BackgroundImage;

@@ -7,8 +7,6 @@ import './styles/Button.css'
 import './styles/Img.css'
 import './styles/Header.css'
 import './styles/Footer.css'
-
-
 function App() {
 
   // background image
