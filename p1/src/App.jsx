@@ -16,7 +16,6 @@ function App() {
     padding: '20px',
     color: 'white',
   };
-
   return (
     <div style={appStyle}>
 
