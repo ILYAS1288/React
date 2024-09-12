@@ -1,8 +1,6 @@
 import Button from "./Button"
 import Header from "./Header"
 import Footer from "./Footer"
-
-
 import './styles/Button.css'
 import './styles/Img.css'
 import './styles/Header.css'
