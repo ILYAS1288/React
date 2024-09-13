@@ -16,11 +16,9 @@ function App() {
   };
   return (
     <div style={appStyle}>
-
-      <Header />
+      <Header/>
       <h1 style={{ textAlign: 'center' }} > My Gun and Ibex pages view </h1>
       <p style={{ fontSize: '16px', color: 'lightblue', textAlign: 'center' }}> Proper maintenance is crucial for safe and reliable gun operation.</p>
-
       <span style={{ display: 'block', textAlign: 'center' }} >08/06/2024 </span>
       <br />
 
