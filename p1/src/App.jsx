@@ -22,7 +22,6 @@ function App() {
       <span style={{ display: 'block', textAlign: 'center' }} >08/06/2024 </span>
       <br />
       <p style={{ fontSize: '19px', color: 'white', textAlign: 'center' }} >Maintenance and Repair: Proper maintenance is crucial for safe and reliable gun operation. <br /> This includes regular cleaning to remove residue and ensure that all moving parts are functioning smoothly. <br /> Common tools used for gun maintenance include cleaning rods, brushes, and lubricants. If you're looking to repair a gun, <br /> it’s important to have a good understanding of its mechanics and to follow safety procedures.</p>
-
       <img className="img" src="https://images.unsplash.com/photo-1482649671545-bc53dcf1ad7c?q=80&w=1740&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="" />
 
 
@@ -39,7 +38,6 @@ function App() {
       <p style={{ fontSize: '16px', color: 'blue', textAlign: 'center' }} > Common tools used for gun maintenance include cleaning rods, brushes, and lubricants. If you're looking to repair a gun.</p>
       <a href="#" style={{ display: 'block', textAlign: 'center', color: 'blue' }}  >WWW.http://mygun.com</a>
       <br /><br />
-
       <Button />
       <br /> <br />
       <Footer />
