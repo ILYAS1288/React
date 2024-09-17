@@ -31,9 +31,6 @@ function App() {
       <img className="img" src="https://media.istockphoto.com/id/1211957079/photo/alpine-ibex-under-strong-snowfall.jpg?s=2048x2048&w=is&k=20&c=lGVheay8JsiHZrCHf1O8A57Et_s_QjmIHrrcsRmoTXQ=" alt="" />
 
       <img className="img" src="https://media.istockphoto.com/id/1419667414/photo/alpine-ibex-in-the-mountains-of-gran-paradiso-national-park-in-piedmont-italy.jpg?s=2048x2048&w=is&k=20&c=AwC6Q31J9o0xzh8SwEfoP0X2WjdryMp8xOOfPvZ2sxg=" alt="" />
-
-
-
       <h5 style={{ fontSize: '16px', color: 'blue', textAlign: 'center' }} >Gun </h5>
       <p style={{ fontSize: '16px', color: 'blue', textAlign: 'center' }} > Common tools used for gun maintenance include cleaning rods, brushes, and lubricants. If you're looking to repair a gun.</p>
       <a href="#" style={{ display: 'block', textAlign: 'center', color: 'blue' }}  >WWW.http://mygun.com</a>
