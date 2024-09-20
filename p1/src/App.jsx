@@ -26,8 +26,6 @@ function App() {
 
 
       <img className="img" src="https://media.istockphoto.com/id/2157806251/photo/firearms-pistol-and-revolver-with-cartridges-on-the-table-in-a-shooting-range.jpg?s=2048x2048&w=is&k=20&c=pO_-0r7quA_eUZABh_g90PAJ3TH8OkMGFdH6_8pmAaE=" alt="" />
-
-
       <img className="img" src="https://media.istockphoto.com/id/1211957079/photo/alpine-ibex-under-strong-snowfall.jpg?s=2048x2048&w=is&k=20&c=lGVheay8JsiHZrCHf1O8A57Et_s_QjmIHrrcsRmoTXQ=" alt="" />
 
       <img className="img" src="https://media.istockphoto.com/id/1419667414/photo/alpine-ibex-in-the-mountains-of-gran-paradiso-national-park-in-piedmont-italy.jpg?s=2048x2048&w=is&k=20&c=AwC6Q31J9o0xzh8SwEfoP0X2WjdryMp8xOOfPvZ2sxg=" alt="" />
